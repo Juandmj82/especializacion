@@ -1,5 +1,5 @@
-[Captura de Pantalla 2024-10-07 a la(s) 10 52 41 a  m](https://github.com/user-attachments/assets/eae78c5b-f35b-40c6-bce4-8e126301ce34)
 
+![Captura de Pantalla 2024-10-07 a la(s) 10 52 41 a  m](https://github.com/user-attachments/assets/085b12b7-c28a-4f46-8444-64a511398dfa)
 
 ## 🌍 Descripción
 Este proyecto es un conversor de divisas interactivo y fácil de usar, desarrollado en Java con interfaz gráfica Swing. Permite a los usuarios convertir entre múltiples monedas utilizando tasas de cambio en tiempo real.
