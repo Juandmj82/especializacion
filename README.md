@@ -12,11 +12,15 @@ Este proyecto es un conversor de divisas interactivo y fácil de usar, desarroll
 - 🔢 Manejo de errores para entradas inválidas.
 
 ## 🚀 Cómo usar
+![Captura de Pantalla 2024-10-07 a la(s) 11 01 59 a  m](https://github.com/user-attachments/assets/743d0454-7bdb-46f9-9275-cca692c9e64c)
+
 1. Ingresa el monto a convertir en el campo "Importe".
 2. Selecciona la moneda de origen en el menú desplegable "De:".
 3. Selecciona la moneda de destino en el menú desplegable "A:".
 4. Haz clic en "Convertir" para ver el resultado.
 5. El historial de conversiones se mostrará en la tabla inferior.
+
+
 
 ## 🛠️ Tecnologías utilizadas
 - Java 8+
