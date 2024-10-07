@@ -1,5 +1,4 @@
-
-# Conversor de Divisas de Juan Diego![Captura de Pantalla 2024-10-07 a la(s) 10 52 41 a  m](https://github.com/user-attachments/assets/eae78c5b-f35b-40c6-bce4-8e126301ce34)
+[Captura de Pantalla 2024-10-07 a la(s) 10 52 41 a  m](https://github.com/user-attachments/assets/eae78c5b-f35b-40c6-bce4-8e126301ce34)
 
 
 ## 🌍 Descripción
