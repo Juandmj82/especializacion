@@ -23,7 +23,7 @@ Este proyecto es un conversor de divisas interactivo y fácil de usar, desarroll
 
 
 ## 🛠️ Tecnologías utilizadas
-- Java 8+
+- Java 17
 - Swing para la interfaz gráfica
 - HttpClient para las llamadas a la API
 - JSON para el procesamiento de datos de la API
